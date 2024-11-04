@@ -1,1 +1,2 @@
 # Ecommerce-Website
+A fully responsive eCommerce website created using HTML and CSS. This project includes a user-friendly interface with essential eCommerce features like product listings, categories, a shopping cart, and checkout functionality. Designed to provide a seamless shopping experience, this project demonstrates front-end web development skills and showcases interactive UI elements and dynamic content handling.
